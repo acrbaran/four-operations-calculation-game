@@ -6,10 +6,10 @@ The computer randomly generates 5 numbers between 1-9, 1 number between 10-90 as
 ## Screenshots
 
 <p align="center">
-<img width="850px" src="./img/1.png"/>
-<img width="850px" src="./img/2.png"/>
-<img width="850px" src="./img/3.png"/>
-<img width="850px" src="./img/4.png"/>
+<img width="850px" src="./img/1.png"/><br/>
+<img width="850px" src="./img/2.png"/>><br/>
+<img width="850px" src="./img/3.png"/>><br/>
+<img width="850px" src="./img/4.png"/>><br/>
 <img width="850px" src="./img/5.png"/>
 </p>
 
